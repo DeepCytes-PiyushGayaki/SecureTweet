@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257512098952",
+    "project_id": "tweetapp-72d5e",
+    "storage_bucket": "tweetapp-72d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257512098952:android:3dc6d53fd44e8e7c33a33d",
+        "android_client_info": {
+          "package_name": "com.atilsamancioglu.securetweet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmyM-6Zaba_NxkLQZQPwoZx0ASY4LqhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
